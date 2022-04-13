@@ -2009,33 +2009,6 @@ These are projects that take a lot of effort and time to maintain. So with your 
 - *covidcaremap.org. 2020. COVID CARE [online] Available at: <https://www.covidcaremap.org/#data/> [Accessed 26 Mar 2020]*
 - *icnl.org. 2020. COVID-19 Civic Freedom Tracker [online] Available at: <https://www.icnl.org/covid19tracker/> [Accessed 17 April 2020]*
 
-### **📚 Projects that use the API**
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/yenniejun/covid-texting-service">
-        <img src="https://avatars0.githubusercontent.com/u/9387924?s=400&u=cf7389c0603916a716f6f8308101dd34309493e5&v=4" width="75px;" alt="yenniejun"/><br />
-          <sub>
-            <b>yenniejun</b>
-          </sub>
-      </a><br/>
-        <sub>Covid Texting Service</sub>
-      </a>
-    </td>
-     <td align="center">
-      <a href="https://github.com/emulk/covid19">
-        <img src="https://avatars1.githubusercontent.com/u/3034446?s=460&u=7e5fb94a9040cd874f7e7d22e7644bfae11cbe1f&v=4" width="75px;" alt="yenniejun"/><br />
-          <sub>
-            <b>emulk</b>
-          </sub>
-      </a><br/>
-        <sub>Covid19 Real Time News</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
 
 ## **:handshake: Contributing**
 
@@ -2065,16 +2038,6 @@ not be a good fit for your project(s).
 Please :star: this repository if you like it or this project helped you!\
 Feel free to open issues or submit pull-requests to help me improving my work.
 
-
----
-
-
-### **:robot: Author**
-
-_*Chris Michael*_
-
-> You can follow me on
-[github](https://github.com/ChrisMichaelPerezSantiago)&nbsp;&middot;&nbsp;[twitter](https://twitter.com/Chris5855M)
 
 ---
 
